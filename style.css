@@ -1,0 +1,50 @@
+#con{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 12px;
+    max-width: 350px;
+    padding: 20px;
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgb(137, 127, 127);
+    background-color: rgb(167, 223, 223);
+}
+
+#sel1{
+    width: 40%;
+    text-align: center;
+    font-size: 2em;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgb(137, 127, 127);
+    border: none;
+}
+
+button{
+    width: 30%;
+    text-align: center;
+    border: 2px solid hsl(0, 7%, 47%,0.1);
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px hsl(0, 0%, 65%,0.75);
+    border: none;
+}
+
+button:hover{
+    width: 30%;
+    text-align: center;
+    background-color: rgb(121, 121, 121);
+    border: 2px solid hsla(0, 64%, 35%, 0.1);
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px hsl(0, 0%, 65%,0.75);
+    border: none;
+}
+#nums{
+    margin: 25px;
+    font-size: 1000px;
+}
+
+#images img{
+margin: 5px;
+width: 100px;
+padding: 10px;
+
+}
