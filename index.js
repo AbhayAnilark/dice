@@ -5,7 +5,7 @@ function rolldice(){
     for(let i=0;i<x;i++){
         const y=  Math.floor(Math.random()*6) +1;
         dice.push(y); 
-        image.push(`<img src="dices/${y}.png">`);
+        image.push(`<img src="${y}.png">`);
     
     }
     console.log(dice);
